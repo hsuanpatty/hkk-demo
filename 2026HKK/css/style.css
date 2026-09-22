@@ -559,7 +559,7 @@ p {
 
 /* 第 6 張卡片標題高度調整 */
 .mitsu-group .mitsu-box:nth-child(6) .card-content h1 {
-  height: 2em; 
+  /* height: 2em;  */
   margin: 0;
 }
 
